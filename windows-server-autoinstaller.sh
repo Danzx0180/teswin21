@@ -38,7 +38,7 @@ case $choice in
         iso_file="windows2019.iso"
         ;;
     3)
-        # Windows Server 2022
+        # Win Spectre
         img_file="WIN10.PRO.AIO.U17.X64.img.img"
         iso_link="https://download1580.mediafire.com/uov5p9zo7p8g5RQ5cbJkv3khsJomEBQAW_G75nQOgWlPVyXlRnYEBZvrw0ygKW83dHdpFlpBr5qeOvy7l3CVGVVePUkFxfEuCx3kl-anll3jQupNnBSVJ_JFMUSHZs_DWeEFCiRJBUWqxHfqllAoNgPyR_Hn65DfGc4eIUumVHMP/xkryyzain711rjo/WIN10.PRO.AIO.U17.X64.img.ISO"
         iso_file="WIN10.PRO.AIO.U17.X64.img.iso"
