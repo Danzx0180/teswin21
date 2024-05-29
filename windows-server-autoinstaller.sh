@@ -39,9 +39,9 @@ case $choice in
         ;;
     3)
         # Win Spectre
-        img_file="WIN10.PRO.AIO.U17.X64.img.img"
+        img_file="winspek.img"
         iso_link="https://download1580.mediafire.com/wjhljr1wen7glCXL9fUlas4NiyblXDwafzIUCRX0EVksHhynm7c15n0F0Rr4NkCJjA2pKQQ0vdnpP9evxNqSdiKVoyNaNORdBsEA6SbxITw7kivCoY6oJ_i1k_od_1mzgl-zb2BEWk6ZUBraFO0tYgaVbOUK5yhwBceutBDQGQ4c/n55xwau4nfco1wz/winspek.ISO"
-        iso_file="WIN10.PRO.AIO.U17.X64.img.iso"
+        iso_file="winspek.iso"
         ;;
     *)
         echo "Invalid choice. Exiting."
