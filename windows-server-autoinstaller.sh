@@ -40,7 +40,7 @@ case $choice in
     3)
         # Win Spectre
         img_file="WIN10.PRO.AIO.U17.X64.img.img"
-        iso_link="https://download1580.mediafire.com/uov5p9zo7p8g5RQ5cbJkv3khsJomEBQAW_G75nQOgWlPVyXlRnYEBZvrw0ygKW83dHdpFlpBr5qeOvy7l3CVGVVePUkFxfEuCx3kl-anll3jQupNnBSVJ_JFMUSHZs_DWeEFCiRJBUWqxHfqllAoNgPyR_Hn65DfGc4eIUumVHMP/xkryyzain711rjo/WIN10.PRO.AIO.U17.X64.img.ISO"
+        iso_link="https://download1580.mediafire.com/wjhljr1wen7glCXL9fUlas4NiyblXDwafzIUCRX0EVksHhynm7c15n0F0Rr4NkCJjA2pKQQ0vdnpP9evxNqSdiKVoyNaNORdBsEA6SbxITw7kivCoY6oJ_i1k_od_1mzgl-zb2BEWk6ZUBraFO0tYgaVbOUK5yhwBceutBDQGQ4c/n55xwau4nfco1wz/winspek.ISO"
         iso_file="WIN10.PRO.AIO.U17.X64.img.iso"
         ;;
     *)
