@@ -40,7 +40,7 @@ case $choice in
     3)
         # Win Spectre
         img_file="winspek.img"
-        iso_link="https://download1580.mediafire.com/wjhljr1wen7glCXL9fUlas4NiyblXDwafzIUCRX0EVksHhynm7c15n0F0Rr4NkCJjA2pKQQ0vdnpP9evxNqSdiKVoyNaNORdBsEA6SbxITw7kivCoY6oJ_i1k_od_1mzgl-zb2BEWk6ZUBraFO0tYgaVbOUK5yhwBceutBDQGQ4c/n55xwau4nfco1wz/winspek.ISO"
+        iso_link="https://download1580.mediafire.com/rymhlunqi94glMwt6OdPcgqAwNlu4yVrKuHbKu2ShnotSdZ8iLcNgWcLwUtK7HES_4sjUwaYYdI9xh3LSNCIeaRTpmHJ-hHhid2ehBdoAXG9mEHa-8rj9Wn_zwHMnco3qPjxdKjj5scWGIbjJ2cdb2nNbecmih__Gu5q0riEJbqWnQM/n55xwau4nfco1wz/winspek.ISO"
         iso_file="winspek.iso"
         ;;
     *)
